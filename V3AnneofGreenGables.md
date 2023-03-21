@@ -2002,7 +2002,7 @@ Anne came dancing home in the purple winter twilight across the snowy places. Af
 
 “I felt that I was heaping coals of fire on Mrs. Barry’s head. And Diana and I had a lovely afternoon. Diana showed me a new fancy crochet stitch her aunt over at Carmody taught her. Not a soul in Avonlea knows it but us, and we pledged a solemn vow never to reveal it to anyone else. Diana gave me a beautiful card with a wreath of roses on it and a verse of poetry:”
 
-      *“If you love me as I love you<br/>Nothing but death can part us two.”*
+*“If you love me as I love you</br>Nothing but death can part us two.”*
 
 “And that is true, Marilla. We’re going to ask Mr. Phillips to let us sit together in school again, and Gertie Pye can go with Minnie Andrews. We had an elegant tea. Mrs. Barry had the very best china set out, Marilla, just as if I was real company. I can’t tell you what a thrill it gave me. Nobody ever used their very best china on my account before. And we had fruit cake and pound cake and doughnuts and two kinds of preserves, Marilla. And Mrs. Barry asked me if I took tea and said ‘Pa, why don’t you pass the biscuits to Anne?’ It must be lovely to be grown up, Marilla, when just being treated as if you were is so nice.”
 
