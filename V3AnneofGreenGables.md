@@ -125,8 +125,7 @@ So said Mrs. Rachel to the wild rose bushes out of the fulness of her heart; but
 
 Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River. It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom. The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while
 
-     “The little birds sang as if it were
-     The one day of summer in all the year.”
+*“The little birds sang as if it were</br>The one day of summer in all the year.”*
 
 Matthew enjoyed the drive after his own fashion, except during the moments when he met women and had to nod to them—for in Prince Edward island you are supposed to nod to all and sundry you meet on the road whether you know them or not.
 
@@ -611,12 +610,12 @@ She knew Mrs. Peter Blewett only by sight as a small, shrewish-faced woman witho
 “Well, I’ll go in and we’ll talk the matter over,” she said.
 
 “And if there isn’t Mrs. Peter coming up the lane this blessed minute!”
- exclaimed Mrs. Spencer, bustling her guests through the hall into the parlor, where a deadly chill struck on them as if the air had been strained so long through dark green, closely drawn blinds that it had lost every particle of warmth it had ever possessed. “That is real lucky, for we can settle the matter right away. Take the armchair, Miss Cuthbert. Anne, you sit here on the ottoman and don’t wiggle. Let me take your hats. Flora Jane, go out and put the kettle on. Good afternoon, Mrs. Blewett. We were just saying how fortunate it was you happened along. Let me introduce you two ladies. Mrs. Blewett, Miss Cuthbert. Please excuse me for just a moment. I forgot to tell Flora Jane to take the buns out of the oven.”
+exclaimed Mrs. Spencer, bustling her guests through the hall into the parlor, where a deadly chill struck on them as if the air had been strained so long through dark green, closely drawn blinds that it had lost every particle of warmth it had ever possessed. “That is real lucky, for we can settle the matter right away. Take the armchair, Miss Cuthbert. Anne, you sit here on the ottoman and don’t wiggle. Let me take your hats. Flora Jane, go out and put the kettle on. Good afternoon, Mrs. Blewett. We were just saying how fortunate it was you happened along. Let me introduce you two ladies. Mrs. Blewett, Miss Cuthbert. Please excuse me for just a moment. I forgot to tell Flora Jane to take the buns out of the oven.”
 
 Mrs. Spencer whisked away, after pulling up the blinds. Anne sitting mutely on the ottoman, with her hands clasped tightly in her lap, stared at Mrs Blewett as one fascinated. Was she to be given into the keeping of this sharp-faced, sharp-eyed woman? She felt a lump coming up in her throat and her eyes smarted painfully. She was beginning to be afraid she couldn’t keep the tears back when Mrs. Spencer returned, flushed and beaming, quite capable of taking any and every difficulty, physical, mental or spiritual, into consideration and settling it out of hand.
 
 “It seems there’s been a mistake about this little girl, Mrs. Blewett,”
- she said. “I was under the impression that Mr. and Miss Cuthbert wanted a little girl to adopt. I was certainly told so. But it seems it was a boy they wanted. So if you’re still of the same mind you were yesterday, I think she’ll be just the thing for you.”
+she said. “I was under the impression that Mr. and Miss Cuthbert wanted a little girl to adopt. I was certainly told so. But it seems it was a boy they wanted. So if you’re still of the same mind you were yesterday, I think she’ll be just the thing for you.”
 
 Mrs. Blewett darted her eyes over Anne from head to foot.
 
@@ -957,7 +956,7 @@ An old remembrance suddenly rose up before Marilla. She had been a very small ch
 “I can never do that,” said Anne determinedly and darkly. “You can punish me in any way you like, Marilla. You can shut me up in a dark, damp dungeon inhabited by snakes and toads and feed me only on bread and water and I shall not complain. But I cannot ask Mrs. Lynde to forgive me.”
 
 “We’re not in the habit of shutting people up in dark damp dungeons,”
- said Marilla drily, “especially as they’re rather scarce in Avonlea. But apologize to Mrs. Lynde you must and shall and you’ll stay here in your room until you can tell me you’re willing to do it.”
+said Marilla drily, “especially as they’re rather scarce in Avonlea. But apologize to Mrs. Lynde you must and shall and you’ll stay here in your room until you can tell me you’re willing to do it.”
 
 “I shall have to stay here forever then,” said Anne mournfully, “because I can’t tell Mrs. Lynde I’m sorry I said those things to her. How can I? I’m *not* sorry. I’m sorry I’ve vexed you; but I’m *glad* I told her just what I did. It was a great satisfaction. I can’t say I’m sorry when I’m not, can I? I can’t even *imagine* I’m sorry.”
 
@@ -1059,7 +1058,7 @@ When Marilla went home Anne came out of the fragrant twilight of the orchard wit
 “I hope you won’t have occasion to make many more such apologies. I hope you’ll try to control your temper now, Anne.”
 
 “That wouldn’t be so hard if people wouldn’t twit me about my looks,”
- said Anne with a sigh. “I don’t get cross about other things; but I’m *so* tired of being twitted about my hair and it just makes me boil right over. Do you suppose my hair will really be a handsome auburn when I grow up?”
+said Anne with a sigh. “I don’t get cross about other things; but I’m *so* tired of being twitted about my hair and it just makes me boil right over. Do you suppose my hair will really be a handsome auburn when I grow up?”
 
 “You shouldn’t think so much about your looks, Anne. I’m afraid you are a very vain little girl.”
 
@@ -1151,8 +1150,8 @@ Anne sat down on the rocker with a long sigh, kissed one of Bonny’s leaves, an
 
 “Oh, yes; and I answered a lot of questions. Miss Rogerson asked ever so many. I don’t think it was fair for her to do all the asking. There were lots I wanted to ask her, but I didn’t like to because I didn’t think she was a kindred spirit. Then all the other little girls recited a paraphrase. She asked me if I knew any. I told her I didn’t, but I could recite, ‘The Dog at His Master’s Grave’ if she liked. That’s in the Third Royal Reader. It isn’t a really truly religious piece of poetry, but it’s so sad and melancholy that it might as well be. She said it wouldn’t do and she told me to learn the nineteenth paraphrase for next Sunday. I read it over in church afterwards and it’s splendid. There are two lines in particular that just thrill me.
 
-   “‘Quick as the slaughtered squadrons fell
-   In Midian’s evil day.’
+
+   *“‘Quick as the slaughtered squadrons fell,</br>In Midian’s evil day.’*
 
 “I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it sounds *so* tragical. I can hardly wait until next Sunday to recite it. I’ll practice it all the week. After Sunday school I asked Miss Rogerson—because Mrs. Lynde was too far away—to show me your pew. I sat just as still as I could and the text was Revelations, third chapter, second and third verses. It was a very long text. If I was a minister I’d pick the short, snappy ones. The sermon was awfully long, too. I suppose the minister had to match it to the text. I didn’t think he was a bit interesting. The trouble with him seems to be that he hasn’t enough imagination. I didn’t listen to him very much. I just let my thoughts run and I thought of the most surprising things.”
 
@@ -1302,7 +1301,7 @@ On Sunday Anne confided to Marilla on the way home from church that she grew act
 “You set your heart too much on things, Anne,” said Marilla, with a sigh. “I’m afraid there’ll be a great many disappointments in store for you through life.”
 
 “Oh, Marilla, looking forward to things is half the pleasure of them,”
- exclaimed Anne. “You mayn’t get the things themselves; but nothing can prevent you from having the fun of looking forward to them. Mrs. Lynde says, ‘Blessed are they who expect nothing for they shall not be disappointed.’ But I think it would be worse to expect nothing than to be disappointed.”
+exclaimed Anne. “You mayn’t get the things themselves; but nothing can prevent you from having the fun of looking forward to them. Mrs. Lynde says, ‘Blessed are they who expect nothing for they shall not be disappointed.’ But I think it would be worse to expect nothing than to be disappointed.”
 
 Marilla wore her amethyst brooch to church that day as usual. Marilla always wore her amethyst brooch to church. She would have thought it rather sacrilegious to leave it off—as bad as forgetting her Bible or her collection dime. That amethyst brooch was Marilla’s most treasured possession. A seafaring uncle had given it to her mother who in turn had bequeathed it to Marilla. It was an old-fashioned oval, containing a braid of her mother’s hair, surrounded by a border of very fine amethysts. Marilla knew too little about precious stones to realize how fine the amethysts actually were; but she thought them very beautiful and was always pleasantly conscious of their violet shimmer at her throat, above her good brown satin dress, even although she could not see it.
 
@@ -1477,7 +1476,7 @@ Lover’s Lane opened out below the orchard at Green Gables and stretched far up
 “Not that lovers ever really walk there,” she explained to Marilla, “but Diana and I are reading a perfectly magnificent book and there’s a Lover’s Lane in it. So we want to have one, too. And it’s a very pretty name, don’t you think? So romantic! We can’t imagine the lovers into it, you know. I like that lane because you can think out loud there without people calling you crazy.”
 
 Anne, starting out alone in the morning, went down Lover’s Lane as far as the brook. Here Diana met her, and the two little girls went on up the lane under the leafy arch of maples—“maples are such sociable trees,” said Anne; “they’re always rustling and whispering to you”—until they came to a rustic bridge. Then they left the lane and walked through Mr. Barry’s back field and past Willowmere. Beyond Willowmere came Violet Vale—a little green dimple in the shadow of Mr. Andrew Bell’s big woods. “Of course there are no violets there now,”
- Anne told Marilla, “but Diana says there are millions of them in spring. Oh, Marilla, can’t you just imagine you see them? It actually takes away my breath. I named it Violet Vale. Diana says she never saw the beat of me for hitting on fancy names for places. It’s nice to be clever at something, isn’t it? But Diana named the Birch Path. She wanted to, so I let her; but I’m sure I could have found something more poetical than plain Birch Path. Anybody can think of a name like that. But the Birch Path is one of the prettiest places in the world, Marilla.”
+Anne told Marilla, “but Diana says there are millions of them in spring. Oh, Marilla, can’t you just imagine you see them? It actually takes away my breath. I named it Violet Vale. Diana says she never saw the beat of me for hitting on fancy names for places. It’s nice to be clever at something, isn’t it? But Diana named the Birch Path. She wanted to, so I let her; but I’m sure I could have found something more poetical than plain Birch Path. Anybody can think of a name like that. But the Birch Path is one of the prettiest places in the world, Marilla.”
 
 It was. Other people besides Anne thought so when they stumbled on it. It was a little narrow, twisting path, winding down over a long hill straight through Mr. Bell’s woods, where the light came down sifted through so many emerald screens that it was as flawless as the heart of a diamond. It was fringed in all its length with slim young birches, white stemmed and lissom boughed; ferns and starflowers and wild lilies-of-the-valley and scarlet tufts of pigeonberries grew thickly along it; and always there was a delightful spiciness in the air and music of bird calls and the murmur and laugh of wood winds in the trees overhead. Now and then you might see a rabbit skipping across the road if you were quiet—which, with Anne and Diana, happened about once in a blue moon. Down in the valley the path came out to the main road and then it was just up the spruce hill to the school.
 
@@ -1885,25 +1884,25 @@ so the marked absence of any tribute or recognition from Diana Barry who was sit
 
 
 ::: {.note}
-    “Dear Anne, ran the former, “Mother says I’m not to play with you or talk to you even in school. It isn’t my fault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember
+“Dear Anne, ran the former, “Mother says I’m not to play with you or talk to you even in school. It isn’t my fault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember
     
-    Your true friend,
-    Diana Barry.
+Your true friend,
+Diana Barry.
 :::
 
 Anne read the note, kissed the bookmark, and dispatched a prompt reply back to the other side of the school.
 
 ::: {.note}
-    My own darling Diana:
+My own darling Diana:
     
-    Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improoved.
+Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improoved.
     
-    Yours until death us do part
+Yours until death us do part
     
-    Anne or Cordelia Shirley.
+Anne or Cordelia Shirley.
     
     
-    P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
+P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
 :::
 
 Marilla pessimistically expected more trouble since Anne had again begun to go to school. But none developed. Perhaps Anne caught something of the “model” spirit from Minnie Andrews; at least she got on very well with Mr. Phillips thenceforth. She flung herself into her studies heart and soul, determined not to be outdone in any class by Gilbert Blythe. The rivalry between them was soon apparent; it was entirely good natured on Gilbert’s side; but it is much to be feared that the same thing cannot be said of Anne, who had certainly an unpraiseworthy tenacity for holding grudges. She was as intense in her hatreds as in her loves. She would not stoop to admit that she meant to rival Gilbert in schoolwork, because that would have been to acknowledge his existence which Anne persistently ignored; but the rivalry was there and honors fluctuated between them. Now Gilbert was head of the spelling class; now Anne, with a toss of her long red braids, spelled him down. One morning Gilbert had all his sums done correctly and had his name written on the blackboard on the roll of honor; the next morning Anne, having wrestled wildly with decimals the entire evening before, would be first. One awful day they were ties and their names were written up together. It was almost as bad as a take-notice and Anne’s mortification was as evident as Gilbert’s satisfaction. When the written examinations at the end of each month were held the suspense was terrible. The first month Gilbert came out three marks ahead. The second Anne beat him by five. But her triumph was marred by the fact that Gilbert congratulated her heartily before the whole school. It would have been ever so much sweeter to her if he had felt the sting of his defeat.
