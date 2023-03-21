@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 519323a3b5fb535d6e229c5218f20c9775b6e8a3
 ANNE OF GREEN GABLES
 
 By Lucy Maud Montgomery
