@@ -1862,12 +1862,8 @@ The following Monday Anne surprised Marilla by coming down from her room with he
 Anne was welcomed back to school with open arms. Her imagination had been sorely missed in games, her voice in the singing and her dramatic ability in the perusal aloud of books at dinner hour. Ruby Gillis smuggled three blue plums over to her during testament reading; Ella May MacPherson gave her an enormous yellow pansy cut from the covers of a floral catalogue—a species of desk decoration much prized in Avonlea school. Sophia Sloane offered to teach her a perfectly elegant new pattern of knit lace, so nice for trimming aprons. Katie Boulter gave her a perfume bottle to keep slate water in, and Julia Bell copied carefully on a piece of pale pink paper scalloped on the edges the following effusion:
 
 ::: {.note}
-                “TO ANNE
-    
-    “When twilight drops her curtain down
-    And pins it with a star
-    Remember that you have a friend
-    Though she may wander far.”
+“TO ANNE</br>
+“When twilight drops her curtain down</br>And pins it with a star</br>Remember that you have a friend</br>Though she may wander far.”
 :::
 
 “It’s so nice to be appreciated,” sighed Anne rapturously to Marilla that night.
@@ -1876,33 +1872,20 @@ The girls were not the only scholars who “appreciated” her. When Anne went t
 
 But as,
 
-  *The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,*
+*The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,*
 
 so the marked absence of any tribute or recognition from Diana Barry who was sitting with Gertie Pye embittered Anne’s little triumph.
 
-“Diana might just have smiled at me once, I think,” she mourned to Marilla that night. But the next morning a note most fearfully and wonderfully twisted and folded, and a small parcel were passed across to Anne.
-
+“Diana might just have smiled at me once, I think,” she mourned to Marilla that night. But the next morning a note most fearfully and wonderfully twisted and folded, and a small parcel were passed across to Anne. “Dear Anne, ran the former, 
 
 ::: {.note}
-“Dear Anne, ran the former, “Mother says I’m not to play with you or talk to you even in school. It isn’t my fault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember
-    
-Your true friend,
-Diana Barry.
+“Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember</br>Your true friend,</br>Diana Barry.
 :::
 
 Anne read the note, kissed the bookmark, and dispatched a prompt reply back to the other side of the school.
 
 ::: {.note}
-My own darling Diana:
-    
-Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improoved.
-    
-Yours until death us do part
-    
-Anne or Cordelia Shirley.
-    
-    
-P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
+My own darling Diana:<br/>Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improoved.<br/>Yours until death us do part<br/>Anne or Cordelia Shirley.<br/>P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
 :::
 
 Marilla pessimistically expected more trouble since Anne had again begun to go to school. But none developed. Perhaps Anne caught something of the “model” spirit from Minnie Andrews; at least she got on very well with Mr. Phillips thenceforth. She flung herself into her studies heart and soul, determined not to be outdone in any class by Gilbert Blythe. The rivalry between them was soon apparent; it was entirely good natured on Gilbert’s side; but it is much to be feared that the same thing cannot be said of Anne, who had certainly an unpraiseworthy tenacity for holding grudges. She was as intense in her hatreds as in her loves. She would not stoop to admit that she meant to rival Gilbert in schoolwork, because that would have been to acknowledge his existence which Anne persistently ignored; but the rivalry was there and honors fluctuated between them. Now Gilbert was head of the spelling class; now Anne, with a toss of her long red braids, spelled him down. One morning Gilbert had all his sums done correctly and had his name written on the blackboard on the roll of honor; the next morning Anne, having wrestled wildly with decimals the entire evening before, would be first. One awful day they were ties and their names were written up together. It was almost as bad as a take-notice and Anne’s mortification was as evident as Gilbert’s satisfaction. When the written examinations at the end of each month were held the suspense was terrible. The first month Gilbert came out three marks ahead. The second Anne beat him by five. But her triumph was marred by the fact that Gilbert congratulated her heartily before the whole school. It would have been ever so much sweeter to her if he had felt the sting of his defeat.
