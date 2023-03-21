@@ -1877,8 +1877,7 @@ The girls were not the only scholars who “appreciated” her. When Anne went t
 
 But as,
 
-  *The Cæsar’s pageant shorn of Brutus’ bust*
-  *Did but of Rome’s best son remind her more,*
+  *The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,*
 
 so the marked absence of any tribute or recognition from Diana Barry who was sitting with Gertie Pye embittered Anne’s little triumph.
 
