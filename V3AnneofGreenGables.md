@@ -1,4 +1,4 @@
-﻿Hello
+Hello
 
 
 ANNE OF GREEN GABLES
