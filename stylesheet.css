@@ -1,8 +1,9 @@
 h1 {
-	font-size: 50pt;
-	font-family: Minion Pro;
+	color: green;
+	font-size: 16pt;
+	font-family: "Minion Pro";
 	line-height: 1em;
-	font-weight: bold;
+	font-style: italic;
 
 
 }
