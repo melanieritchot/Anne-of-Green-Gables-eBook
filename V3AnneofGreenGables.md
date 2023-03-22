@@ -2002,8 +2002,7 @@ Anne came dancing home in the purple winter twilight across the snowy places. Af
 
 “I felt that I was heaping coals of fire on Mrs. Barry’s head. And Diana and I had a lovely afternoon. Diana showed me a new fancy crochet stitch her aunt over at Carmody taught her. Not a soul in Avonlea knows it but us, and we pledged a solemn vow never to reveal it to anyone else. Diana gave me a beautiful card with a wreath of roses on it and a verse of poetry:”
 
-      “If you love me as I love you
-      Nothing but death can part us two.”
+*“If you love me as I love you</br>Nothing but death can part us two.”*
 
 “And that is true, Marilla. We’re going to ask Mr. Phillips to let us sit together in school again, and Gertie Pye can go with Minnie Andrews. We had an elegant tea. Mrs. Barry had the very best china set out, Marilla, just as if I was real company. I can’t tell you what a thrill it gave me. Nobody ever used their very best china on my account before. And we had fruit cake and pound cake and doughnuts and two kinds of preserves, Marilla. And Mrs. Barry asked me if I took tea and said ‘Pa, why don’t you pass the biscuits to Anne?’ It must be lovely to be grown up, Marilla, when just being treated as if you were is so nice.”
 
@@ -2979,8 +2978,7 @@ Anne was bringing the cows home from the back pasture by way of Lover’s Lane. 
 
 The cows swung placidly down the lane, and Anne followed them dreamily, repeating aloud the battle canto from *Marmion*—which had also been part of their English course the preceding winter and which Miss Stacy had made them learn off by heart—and exulting in its rushing lines and the clash of spears in its imagery. When she came to the lines
 
-       The stubborn spearsmen still made good
-       Their dark impenetrable wood,
+*The stubborn spearsmen still made good</br>Their dark impenetrable wood,*
 
 she stopped in ecstasy to shut her eyes that she might the better fancy herself one of that heroic ring. When she opened them again it was to behold Diana coming through the gate that led into the Barry field and looking so important that Anne instantly divined there was news to be told. But betray too eager curiosity she would not.
 
@@ -3185,7 +3183,7 @@ Miss Stacy came back to Avonlea school and found all her pupils eager for work o
 But it was a jolly, busy, happy swift-flying winter. Schoolwork was as interesting, class rivalry as absorbing, as of yore. New worlds of thought, feeling, and ambition, fresh, fascinating fields of unexplored knowledge seemed to be opening out before Anne’s eager eyes.
 
 
-      “Hills peeped o’er hill and Alps on Alps arose.”
+*“Hills peeped o’er hill and Alps on Alps arose.”*
 
 
 Much of all this was due to Miss Stacy’s tactful, careful, broadminded guidance. She led her class to think and explore and discover for themselves and encouraged straying from the old beaten paths to a degree that quite shocked Mrs. Lynde and the school trustees, who viewed all innovations on established methods rather dubiously.
@@ -3261,7 +3259,7 @@ Two big tears rolled down by Diana’s nose.
 
 Anne went to town the following Monday and on Wednesday Diana haunted the post office, as agreed, and got her letter.
 
-
+::: {.note}
 “Dearest Diana” [wrote Anne],
 
 “Here it is Tuesday night and I’m writing this in the library at Beechwood. Last night I was horribly lonesome all alone in my room and wished so much you were with me. I couldn’t ‘cram’ because I’d promised Miss Stacy not to, but it was as hard to keep from opening my history as it used to be to keep from reading a story before my lessons were learned.
@@ -3283,7 +3281,7 @@ Anne went to town the following Monday and on Wednesday Diana haunted the post o
 “Yours devotedly,
 
 “Anne”
-
+:::
 
 The geometry examination and all the others were over in due time and Anne arrived home on Friday evening, rather tired but with an air of chastened triumph about her. Diana was over at Green Gables when she arrived and they met as if they had been parted for years.
 
@@ -3398,9 +3396,7 @@ Billy Andrews insisted that Anne should ride on the front seat with him, so she 
 
 Anne, by dint of talking over her shoulder to the girls and occasionally passing a sop of civility to Billy—who grinned and chuckled and never could think of any reply until it was too late—contrived to enjoy the drive in spite of all. It was a night for enjoyment. The road was full of buggies, all bound for the hotel, and laughter, silver clear, echoed and reechoed along it. When they reached the hotel it was a blaze of light from top to bottom. They were met by the ladies of the concert committee, one of whom took Anne off to the performers’ dressing room which was filled with the members of a Charlottetown Symphony Club, among whom Anne felt suddenly shy and frightened and countrified. Her dress, which, in the east gable, had seemed so dainty and pretty, now seemed simple and plain—too simple and plain, she thought, among all the silks and laces that glistened and rustled around her. What were her pearl beads compared to the diamonds of the big, handsome lady near her? And how poor her one wee white rose must look beside all the hothouse flowers the others wore! Anne laid her hat and jacket away, and shrank miserably into a corner. She wished herself back in the white room at Green Gables.
 
-It was still worse on the platform of the big concert hall of the hotel, where she presently found herself. The electric lights dazzled her eyes, the perfume and hum bewildered her. She wished she were sitting down in the audience with Diana and Jane, who seemed to be having a splendid time away at the back. She was wedged in between a stout lady in pink silk and a tall, scornful-looking girl in a white-lace dress. The stout lady occasionally turned her head squarely around and surveyed Anne through her eyeglasses until Anne, acutely sensitive of being so scrutinized, felt that she must scream aloud; and the white-lace girl kept talking audibly to her next neighbor about the “country bumpkins”
- and “rustic belles” in the audience, languidly anticipating “such fun”
- from the displays of local talent on the program. Anne believed that she would hate that white-lace girl to the end of life.
+It was still worse on the platform of the big concert hall of the hotel, where she presently found herself. The electric lights dazzled her eyes, the perfume and hum bewildered her. She wished she were sitting down in the audience with Diana and Jane, who seemed to be having a splendid time away at the back. She was wedged in between a stout lady in pink silk and a tall, scornful-looking girl in a white-lace dress. The stout lady occasionally turned her head squarely around and surveyed Anne through her eyeglasses until Anne, acutely sensitive of being so scrutinized, felt that she must scream aloud; and the white-lace girl kept talking audibly to her next neighbor about the “country bumpkins” and “rustic belles” in the audience, languidly anticipating “such fun” from the displays of local talent on the program. Anne believed that she would hate that white-lace girl to the end of life.
 
 Unfortunately for Anne, a professional elocutionist was staying at the hotel and had consented to recite. She was a lithe, dark-eyed woman in a wonderful gown of shimmering gray stuff like woven moonbeams, with gems on her neck and in her dark hair. She had a marvelously flexible voice and wonderful power of expression; the audience went wild over her selection. Anne, forgetting all about herself and her troubles for the time, listened with rapt and shining eyes; but when the recitation ended she suddenly put her hands over her face. She could never get up and recite after that—never. Had she ever thought she could recite? Oh, if she were only back at Green Gables!
 
