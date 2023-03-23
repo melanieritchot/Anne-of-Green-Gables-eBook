@@ -137,7 +137,7 @@ Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to 
 
 :::{.poetry}
 | The little birds sang as if it were
-| The one day of summer in all the year.”
+| The one day of summer in all the year.
 :::
 
 Matthew enjoyed the drive after his own fashion, except during the moments when he met women and had to nod to them—for in Prince Edward island you are supposed to nod to all and sundry you meet on the road whether you know them or not.
@@ -1877,7 +1877,11 @@ The following Monday Anne surprised Marilla by coming down from her room with he
 Anne was welcomed back to school with open arms. Her imagination had been sorely missed in games, her voice in the singing and her dramatic ability in the perusal aloud of books at dinner hour. Ruby Gillis smuggled three blue plums over to her during testament reading; Ella May MacPherson gave her an enormous yellow pansy cut from the covers of a floral catalogue—a species of desk decoration much prized in Avonlea school. Sophia Sloane offered to teach her a perfectly elegant new pattern of knit lace, so nice for trimming aprons. Katie Boulter gave her a perfume bottle to keep slate water in, and Julia Bell copied carefully on a piece of pale pink paper scalloped on the edges the following effusion:
 
 ::: {.note}
-“TO ANNE</br> “When twilight drops her curtain down</br>And pins it with a star</br>Remember that you have a friend</br>Though she may wander far.”
+| TO ANNE 
+| When twilight drops her curtain down
+| And pins it with a star 
+| Remember that you have a friend
+| Though she may wander far.
 :::
 
 “It’s so nice to be appreciated,” sighed Anne rapturously to Marilla that night.
