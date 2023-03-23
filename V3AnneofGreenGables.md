@@ -1878,7 +1878,8 @@ The following Monday Anne surprised Marilla by coming down from her room with he
 Anne was welcomed back to school with open arms. Her imagination had been sorely missed in games, her voice in the singing and her dramatic ability in the perusal aloud of books at dinner hour. Ruby Gillis smuggled three blue plums over to her during testament reading; Ella May MacPherson gave her an enormous yellow pansy cut from the covers of a floral catalogue—a species of desk decoration much prized in Avonlea school. Sophia Sloane offered to teach her a perfectly elegant new pattern of knit lace, so nice for trimming aprons. Katie Boulter gave her a perfume bottle to keep slate water in, and Julia Bell copied carefully on a piece of pale pink paper scalloped on the edges the following effusion:
 
 ::: {.note}
-| To Anne 
+| To Anne,
+|
 | When twilight drops her curtain down
 | And pins it with a star 
 | Remember that you have a friend
@@ -1898,10 +1899,13 @@ But as,
 
 so the marked absence of any tribute or recognition from Diana Barry who was sitting with Gertie Pye embittered Anne’s little triumph.
 
-“Diana might just have smiled at me once, I think,” she mourned to Marilla that night. But the next morning a note most fearfully and wonderfully twisted and folded, and a small parcel were passed across to Anne. “Dear Anne, ran the former, 
+“Diana might just have smiled at me once, I think,” she mourned to Marilla that night. But the next morning a note most fearfully and wonderfully twisted and folded, and a small parcel were passed across to Anne.
 
 ::: {.note}
-| Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember
+| Dear Anne,
+|
+|Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember
+|
 | Your true friend,
 | Diana Barry.
 :::
@@ -1910,9 +1914,12 @@ Anne read the note, kissed the bookmark, and dispatched a prompt reply back to t
 
 ::: {.note}
 | My own darling Diana:
-| Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improoved.
-| Yours until death us do part
+|
+| Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improved.
+|
+| Yours until death us do part,
 | Anne or Cordelia Shirley.
+|
 | P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
 :::
 
@@ -3296,7 +3303,7 @@ Two big tears rolled down by Diana’s nose.
 Anne went to town the following Monday and on Wednesday Diana haunted the post office, as agreed, and got her letter.
 
 ::: {.note}
-Dearest Diana” [wrote Anne],
+Dearest Diana [wrote Anne],
 
 Here it is Tuesday night and I’m writing this in the library at Beechwood. Last night I was horribly lonesome all alone in my room and wished so much you were with me. I couldn’t ‘cram’ because I’d promised Miss Stacy not to, but it was as hard to keep from opening my history as it used to be to keep from reading a story before my lessons were learned.
 
