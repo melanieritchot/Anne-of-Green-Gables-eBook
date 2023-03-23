@@ -125,7 +125,7 @@ So said Mrs. Rachel to the wild rose bushes out of the fulness of her heart; but
 
 Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River. It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom. The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while
 
-:::{poetry}
+:::{.poetry}
 “The little birds sang as if it were</br>The one day of summer in all the year.”
 :::
 
@@ -1153,7 +1153,9 @@ Anne sat down on the rocker with a long sigh, kissed one of Bonny’s leaves, an
 “Oh, yes; and I answered a lot of questions. Miss Rogerson asked ever so many. I don’t think it was fair for her to do all the asking. There were lots I wanted to ask her, but I didn’t like to because I didn’t think she was a kindred spirit. Then all the other little girls recited a paraphrase. She asked me if I knew any. I told her I didn’t, but I could recite, ‘The Dog at His Master’s Grave’ if she liked. That’s in the Third Royal Reader. It isn’t a really truly religious piece of poetry, but it’s so sad and melancholy that it might as well be. She said it wouldn’t do and she told me to learn the nineteenth paraphrase for next Sunday. I read it over in church afterwards and it’s splendid. There are two lines in particular that just thrill me.
 
 
-   *“‘Quick as the slaughtered squadrons fell,</br>In Midian’s evil day.’*
+:::{.poetry}
+‘Quick as the slaughtered squadrons fell,</br>In Midian’s evil day.’
+:::
 
 “I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it sounds *so* tragical. I can hardly wait until next Sunday to recite it. I’ll practice it all the week. After Sunday school I asked Miss Rogerson—because Mrs. Lynde was too far away—to show me your pew. I sat just as still as I could and the text was Revelations, third chapter, second and third verses. It was a very long text. If I was a minister I’d pick the short, snappy ones. The sermon was awfully long, too. I suppose the minister had to match it to the text. I didn’t think he was a bit interesting. The trouble with him seems to be that he hasn’t enough imagination. I didn’t listen to him very much. I just let my thoughts run and I thought of the most surprising things.”
 
@@ -1874,7 +1876,7 @@ The girls were not the only scholars who “appreciated” her. When Anne went t
 
 But as,
 
-:::{poetry]
+:::{poetry}
 The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,
 :::
 
@@ -2006,7 +2008,7 @@ Anne came dancing home in the purple winter twilight across the snowy places. Af
 
 “I felt that I was heaping coals of fire on Mrs. Barry’s head. And Diana and I had a lovely afternoon. Diana showed me a new fancy crochet stitch her aunt over at Carmody taught her. Not a soul in Avonlea knows it but us, and we pledged a solemn vow never to reveal it to anyone else. Diana gave me a beautiful card with a wreath of roses on it and a verse of poetry:”
 
-:::{poetry}
+:::{.poetry}
 “If you love me as I love you</br>Nothing but death can part us two.”
 :::
 
@@ -2984,7 +2986,7 @@ Anne was bringing the cows home from the back pasture by way of Lover’s Lane. 
 
 The cows swung placidly down the lane, and Anne followed them dreamily, repeating aloud the battle canto from *Marmion*—which had also been part of their English course the preceding winter and which Miss Stacy had made them learn off by heart—and exulting in its rushing lines and the clash of spears in its imagery. When she came to the lines
 
-:::{poetry}
+:::{.poetry}
 The stubborn spearsmen still made good</br>Their dark impenetrable wood,
 :::
 
@@ -3191,7 +3193,7 @@ Miss Stacy came back to Avonlea school and found all her pupils eager for work o
 But it was a jolly, busy, happy swift-flying winter. Schoolwork was as interesting, class rivalry as absorbing, as of yore. New worlds of thought, feeling, and ambition, fresh, fascinating fields of unexplored knowledge seemed to be opening out before Anne’s eager eyes.
 
 
-:::{poetry}
+:::{.poetry}
 “Hills peeped o’er hill and Alps on Alps arose.”*
 :::
 
