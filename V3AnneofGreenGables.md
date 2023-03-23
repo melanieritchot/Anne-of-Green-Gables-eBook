@@ -125,7 +125,7 @@ So said Mrs. Rachel to the wild rose bushes out of the fulness of her heart; but
 
 Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River. It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom. The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while
 
-:::{poetry]
+:::{poetry}
 “The little birds sang as if it were</br>The one day of summer in all the year.”
 :::
 
