@@ -16,8 +16,10 @@ h1 {
 	font-size: 12pt;
 	font-family: Helvetica;
 	align-content: center;
-	line-height: 1em;
+	line-height: 2em;
 	background-color: whitesmoke;
+	font-style: italic;
+
 
 }
 
