@@ -1901,13 +1901,19 @@ so the marked absence of any tribute or recognition from Diana Barry who was sit
 “Diana might just have smiled at me once, I think,” she mourned to Marilla that night. But the next morning a note most fearfully and wonderfully twisted and folded, and a small parcel were passed across to Anne. “Dear Anne, ran the former, 
 
 ::: {.note}
-Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember</br>Your true friend,</br>Diana Barry.
+| Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember
+| Your true friend,
+| Diana Barry.
 :::
 
 Anne read the note, kissed the bookmark, and dispatched a prompt reply back to the other side of the school.
 
 ::: {.note}
-My own darling Diana:<br/>Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improoved.<br/>Yours until death us do part<br/>Anne or Cordelia Shirley.<br/>P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
+| My own darling Diana:
+| Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely present forever. Minnie Andrews is a very nice little girl—although she has no imagination—but after having been Diana’s busum friend I cannot be Minnie’s. Please excuse mistakes because my spelling isn’t very good yet, although much improoved.
+| Yours until death us do part
+| Anne or Cordelia Shirley.
+| P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
 :::
 
 Marilla pessimistically expected more trouble since Anne had again begun to go to school. But none developed. Perhaps Anne caught something of the “model” spirit from Minnie Andrews; at least she got on very well with Mr. Phillips thenceforth. She flung herself into her studies heart and soul, determined not to be outdone in any class by Gilbert Blythe. The rivalry between them was soon apparent; it was entirely good natured on Gilbert’s side; but it is much to be feared that the same thing cannot be said of Anne, who had certainly an unpraiseworthy tenacity for holding grudges. She was as intense in her hatreds as in her loves. She would not stoop to admit that she meant to rival Gilbert in schoolwork, because that would have been to acknowledge his existence which Anne persistently ignored; but the rivalry was there and honors fluctuated between them. Now Gilbert was head of the spelling class; now Anne, with a toss of her long red braids, spelled him down. One morning Gilbert had all his sums done correctly and had his name written on the blackboard on the roll of honor; the next morning Anne, having wrestled wildly with decimals the entire evening before, would be first. One awful day they were ties and their names were written up together. It was almost as bad as a take-notice and Anne’s mortification was as evident as Gilbert’s satisfaction. When the written examinations at the end of each month were held the suspense was terrible. The first month Gilbert came out three marks ahead. The second Anne beat him by five. But her triumph was marred by the fact that Gilbert congratulated her heartily before the whole school. It would have been ever so much sweeter to her if he had felt the sting of his defeat.
@@ -3290,27 +3296,27 @@ Two big tears rolled down by Diana’s nose.
 Anne went to town the following Monday and on Wednesday Diana haunted the post office, as agreed, and got her letter.
 
 ::: {.note}
-“Dearest Diana” [wrote Anne],
+Dearest Diana” [wrote Anne],
 
-“Here it is Tuesday night and I’m writing this in the library at Beechwood. Last night I was horribly lonesome all alone in my room and wished so much you were with me. I couldn’t ‘cram’ because I’d promised Miss Stacy not to, but it was as hard to keep from opening my history as it used to be to keep from reading a story before my lessons were learned.
+Here it is Tuesday night and I’m writing this in the library at Beechwood. Last night I was horribly lonesome all alone in my room and wished so much you were with me. I couldn’t ‘cram’ because I’d promised Miss Stacy not to, but it was as hard to keep from opening my history as it used to be to keep from reading a story before my lessons were learned.
 
-“This morning Miss Stacy came for me and we went to the Academy, calling for Jane and Ruby and Josie on our way. Ruby asked me to feel her hands and they were as cold as ice. Josie said I looked as if I hadn’t slept a wink and she didn’t believe I was strong enough to stand the grind of the teacher’s course even if I did get through. There are times and seasons even yet when I don’t feel that I’ve made any great headway in learning to like Josie Pye!
+This morning Miss Stacy came for me and we went to the Academy, calling for Jane and Ruby and Josie on our way. Ruby asked me to feel her hands and they were as cold as ice. Josie said I looked as if I hadn’t slept a wink and she didn’t believe I was strong enough to stand the grind of the teacher’s course even if I did get through. There are times and seasons even yet when I don’t feel that I’ve made any great headway in learning to like Josie Pye!
 
-“When we reached the Academy there were scores of students there from all over the Island. The first person we saw was Moody Spurgeon sitting on the steps and muttering away to himself. Jane asked him what on earth he was doing and he said he was repeating the multiplication table over and over to steady his nerves and for pity’s sake not to interrupt him, because if he stopped for a moment he got frightened and forgot everything he ever knew, but the multiplication table kept all his facts firmly in their proper place!
+When we reached the Academy there were scores of students there from all over the Island. The first person we saw was Moody Spurgeon sitting on the steps and muttering away to himself. Jane asked him what on earth he was doing and he said he was repeating the multiplication table over and over to steady his nerves and for pity’s sake not to interrupt him, because if he stopped for a moment he got frightened and forgot everything he ever knew, but the multiplication table kept all his facts firmly in their proper place!
 
-“When we were assigned to our rooms Miss Stacy had to leave us. Jane and I sat together and Jane was so composed that I envied her. No need of the multiplication table for good, steady, sensible Jane! I wondered if I looked as I felt and if they could hear my heart thumping clear across the room. Then a man came in and began distributing the English examination sheets. My hands grew cold then and my head fairly whirled around as I picked it up. Just one awful moment—Diana, I felt exactly as I did four years ago when I asked Marilla if I might stay at Green Gables—and then everything cleared up in my mind and my heart began beating again—I forgot to say that it had stopped altogether!—for I knew I could do something with *that* paper anyhow.
+When we were assigned to our rooms Miss Stacy had to leave us. Jane and I sat together and Jane was so composed that I envied her. No need of the multiplication table for good, steady, sensible Jane! I wondered if I looked as I felt and if they could hear my heart thumping clear across the room. Then a man came in and began distributing the English examination sheets. My hands grew cold then and my head fairly whirled around as I picked it up. Just one awful moment—Diana, I felt exactly as I did four years ago when I asked Marilla if I might stay at Green Gables—and then everything cleared up in my mind and my heart began beating again—I forgot to say that it had stopped altogether!—for I knew I could do something with *that* paper anyhow.
 
-“At noon we went home for dinner and then back again for history in the afternoon. The history was a pretty hard paper and I got dreadfully mixed up in the dates. Still, I think I did fairly well today. But oh, Diana, tomorrow the geometry exam comes off and when I think of it it takes every bit of determination I possess to keep from opening my Euclid. If I thought the multiplication table would help me any I would recite it from now till tomorrow morning.
+At noon we went home for dinner and then back again for history in the afternoon. The history was a pretty hard paper and I got dreadfully mixed up in the dates. Still, I think I did fairly well today. But oh, Diana, tomorrow the geometry exam comes off and when I think of it it takes every bit of determination I possess to keep from opening my Euclid. If I thought the multiplication table would help me any I would recite it from now till tomorrow morning.
 
-“I went down to see the other girls this evening. On my way I met Moody Spurgeon wandering distractedly around. He said he knew he had failed in history and he was born to be a disappointment to his parents and he was going home on the morning train; and it would be easier to be a carpenter than a minister, anyhow. I cheered him up and persuaded him to stay to the end because it would be unfair to Miss Stacy if he didn’t. Sometimes I have wished I was born a boy, but when I see Moody Spurgeon I’m always glad I’m a girl and not his sister.
+I went down to see the other girls this evening. On my way I met Moody Spurgeon wandering distractedly around. He said he knew he had failed in history and he was born to be a disappointment to his parents and he was going home on the morning train; and it would be easier to be a carpenter than a minister, anyhow. I cheered him up and persuaded him to stay to the end because it would be unfair to Miss Stacy if he didn’t. Sometimes I have wished I was born a boy, but when I see Moody Spurgeon I’m always glad I’m a girl and not his sister.
 
-“Ruby was in hysterics when I reached their boardinghouse; she had just discovered a fearful mistake she had made in her English paper. When she recovered we went uptown and had an ice cream. How we wished you had been with us.
+Ruby was in hysterics when I reached their boardinghouse; she had just discovered a fearful mistake she had made in her English paper. When she recovered we went uptown and had an ice cream. How we wished you had been with us.
 
-“Oh, Diana, if only the geometry examination were over! But there, as Mrs. Lynde would say, the sun will go on rising and setting whether I fail in geometry or not. That is true but not especially comforting. I think I’d rather it didn’t go on if I failed!
+Oh, Diana, if only the geometry examination were over! But there, as Mrs. Lynde would say, the sun will go on rising and setting whether I fail in geometry or not. That is true but not especially comforting. I think I’d rather it didn’t go on if I failed!
 
-“Yours devotedly,
+Yours devotedly,
 
-“Anne”
+Anne
 :::
 
 The geometry examination and all the others were over in due time and Anne arrived home on Friday evening, rather tired but with an air of chastened triumph about her. Diana was over at Green Gables when she arrived and they met as if they had been parted for years.
