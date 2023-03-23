@@ -1855,7 +1855,7 @@ so the marked absence of any tribute or recognition from Diana Barry who was sit
 ::: {.note}
 Dear Anne,
 
-Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember.
+Mother says I’m not to play with you or talk to you even in school. It isn’t my fault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember.
 
 Your true friend,  
 Diana Barry.
@@ -1871,7 +1871,7 @@ Of course I am not cross at you because you have to obey your mother. Our spirit
 Yours until death us do part,  
 Anne or Cordelia Shirley.
 
-P.S. I shall sleep with your letter under my pillow tonight. A. *or* C.S.
+PS I shall sleep with your letter under my pillow tonight. A *or* CS
 :::
 
 Marilla pessimistically expected more trouble since Anne had again begun to go to school. But none developed. Perhaps Anne caught something of the “model” spirit from Minnie Andrews; at least she got on very well with Mr. Phillips thenceforth. She flung herself into her studies heart and soul, determined not to be outdone in any class by Gilbert Blythe. The rivalry between them was soon apparent; it was entirely good natured on Gilbert’s side; but it is much to be feared that the same thing cannot be said of Anne, who had certainly an unpraiseworthy tenacity for holding grudges. She was as intense in her hatreds as in her loves. She would not stoop to admit that she meant to rival Gilbert in schoolwork, because that would have been to acknowledge his existence which Anne persistently ignored; but the rivalry was there and honors fluctuated between them. Now Gilbert was head of the spelling class; now Anne, with a toss of her long red braids, spelled him down. One morning Gilbert had all his sums done correctly and had his name written on the blackboard on the roll of honor; the next morning Anne, having wrestled wildly with decimals the entire evening before, would be first. One awful day they were ties and their names were written up together. It was almost as bad as a take-notice and Anne’s mortification was as evident as Gilbert’s satisfaction. When the written examinations at the end of each month were held the suspense was terrible. The first month Gilbert came out three marks ahead. The second Anne beat him by five. But her triumph was marred by the fact that Gilbert congratulated her heartily before the whole school. It would have been ever so much sweeter to her if he had felt the sting of his defeat.
