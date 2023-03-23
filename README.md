@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Anne of Green Gables eBook Repository</h1>
-    <p>This repository contains eBook versions of Lucy Maud Montgomery's Canadian classic novel, Anne of Green Gables.</p>
+    <p>This repository contains an eBook version of Lucy Maud Montgomery's Canadian classic novel, Anne of Green Gables.</p>
     <h2>Contents</h2>
     <p>The book was first published in 1908 and has since become a beloved classic of children's literature.
 
