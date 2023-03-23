@@ -15,7 +15,7 @@ By Lucy Maud Montgomery
 
 
 Table of Contents
-
+:::{.contents}
 Chapter 1          Mrs. Rachel Lynde Is Surprised
 Chapter 2          Matthew Cuthbert Is Surprised
 Chapter 3          Marilla Cuthbert Is Surprised
@@ -54,7 +54,7 @@ Chapter 35         The Winter at Queen’s
 Chapter 36         The Glory and the Dream
 Chapter 37         The Reaper Whose Name Is Death
 Chapter 38         The Bend in the road
-
+:::
 
 # Chapter 1<br/>Mrs. Rachel Lynde is Surprised
 
