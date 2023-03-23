@@ -81,7 +81,7 @@ So said Mrs. Rachel to the wild rose bushes out of the fulness of her heart; but
 
 
 
-# Chapter 2<br/>Matthew Cuthbert is surprised
+# Chapter 2: <br/>Matthew Cuthbert is surprised
 
 
 Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River. It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom. The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while
@@ -246,7 +246,7 @@ Then, holding tightly to the carpet-bag which contained “all her worldly goods
 
 
 
-# Chapter 3<br/>Marilla Cuthbert is Surprised
+# Chapter 3: <br/>Marilla Cuthbert is Surprised
 
 
 Marilla came briskly forward as Matthew opened the door. But when her eyes fell on the odd little figure in the stiff, ugly dress, with the long braids of red hair and the eager, luminous eyes, she stopped short in amazement.
@@ -389,7 +389,7 @@ To bed went Matthew. And to bed, when she had put her dishes away, went Marilla,
 
 
 
-# Chapter 4<br/>Morning at Green Gables
+# Chapter 4: <br/>Morning at Green Gables
 
 
 It was broad daylight when Anne awoke and sat up in bed, staring confusedly at the window through which a flood of cheery sunshine was pouring and outside of which something white and feathery waved across glimpses of blue sky.
@@ -486,7 +486,7 @@ Marilla made no reply, but she hit the unlucky sorrel such a vicious clip with t
 
 
 
-# Chapter 5<br/>Anne’s History
+# Chapter 5: <br/>Anne’s History
 
 
 Do you know,” said Anne confidentially, “I’ve made up my mind to enjoy this drive. It’s been my experience that you can nearly always enjoy things if you make up your mind firmly that you will. Of course, you must make it up *firmly*. I am not going to think about going back to the asylum while we’re having our drive. I’m just going to think about the drive. Oh, look, there’s one little early wild rose out! Isn’t it lovely? Don’t you think it must be glad to be a rose? Wouldn’t it be nice if roses could talk? I’m sure they could tell us such lovely things. And isn’t pink the most bewitching color in the world? I love it, but I can’t wear it. Redheaded people can’t wear pink, not even in imagination. Did you ever know of anybody whose hair was red when she was young, but got to be another color when she grew up?”
@@ -546,7 +546,7 @@ The shore road was “woodsy and wild and lonesome.” On the right hand, scrub 
 
 
 
-# Chapter 6<br/>Marilla Makes Up Her Mind
+# Chapter 6: <br/>Marilla Makes Up Her Mind
 
 
 Get there they did, however, in due season. Mrs. Spencer lived in a big yellow house at White Sands Cove, and she came to the door with surprise and welcome mingled on her benevolent face.
@@ -631,7 +631,7 @@ Marilla sniffed, to express her contempt for Matthew’s opinions concerning any
 
 
 
-# Chapter 7<br/>Anne Says Her Prayers
+# Chapter 7: <br/>Anne Says Her Prayers
 
 
 When Marilla took Anne up to bed that night she said stiffly:
@@ -695,7 +695,7 @@ Marilla retreated to the kitchen, set the candle firmly on the table, and glared
 
 
 
-# Chapter 8<br/>Anne’s Bringing-up Is Begun
+# Chapter 8: <br/>Anne’s Bringing-up Is Begun
 
 
 For reasons best known to herself, Marilla did not tell Anne that she was to stay at Green Gables until the next afternoon. During the forenoon she kept the child busy with various tasks and watched over her with a keen eye while she did them. By noon she had concluded that Anne was smart and obedient, willing to work and quick to learn; her most serious shortcoming seemed to be a tendency to fall into daydreams in the middle of a task and forget all about it until such time as she was sharply recalled to earth by a reprimand or a catastrophe.
@@ -820,7 +820,7 @@ Anne blew a couple of airy kisses from her fingertips past the cherry blossoms a
 
 
 
-# Chapter 9<br/>Mrs. Rachel Lynde Is Properly Horrified
+# Chapter 9: <br/>Mrs. Rachel Lynde Is Properly Horrified
 
 
 Anne had been a fortnight at Green Gables before Mrs. Lynde arrived to inspect her. Mrs. Rachel, to do her justice, was not to blame for this. A severe and unseasonable attack of grippe had confined that good lady to her house ever since the occasion of her last visit to Green Gables. Mrs. Rachel was not often sick and had a well-defined contempt for people who were; but grippe, she asserted, was like no other illness on earth and could only be interpreted as one of the special visitations of Providence. As soon as her doctor allowed her to put her foot out-of-doors she hurried up to Green Gables, bursting with curiosity to see Matthew and Marilla’s orphan, concerning whom all sorts of stories and suppositions had gone abroad in Avonlea.
@@ -931,7 +931,7 @@ Leaving this Parthian shaft to rankle in Anne’s stormy bosom, Marilla descende
 
 
 
-# Chapter 10<br/>Anne’s Apology
+# Chapter 10: <br/>Anne’s Apology
 
 
 Marilla said nothing to Matthew about the affair that evening; but when Anne proved still refractory the next morning an explanation had to be made to account for her absence from the breakfast table. Marilla told Matthew the whole story, taking pains to impress him with a due sense of the enormity of Anne’s behavior.
@@ -1047,7 +1047,7 @@ Something warm and pleasant welled up in Marilla’s heart at touch of that thin
 
 
 
-# Chapter 11<br/>Anne’s Impressions of Sunday-School
+# Chapter 11: <br/>Anne’s Impressions of Sunday-School
 
 
 “Well, how do you like them?” said Marilla.
@@ -1127,7 +1127,7 @@ Marilla felt helplessly that all this should be sternly reproved, but she was ha
 
 
 
-# Chapter 12<br/>A Solemn Vow and Promise
+# Chapter 12: <br/>A Solemn Vow and Promise
 
 
 It was not until the next Friday that Marilla heard the story of the flower-wreathed hat. She came home from Mrs. Lynde’s and called Anne to account.
@@ -1226,7 +1226,7 @@ Anne’s cup of happiness was full, and Matthew caused it to overflow. He had ju
 
 
 
-# Chapter 13<br/>The Delights of Anticipation
+# Chapter 13: <br/>The Delights of Anticipation
 
 
 It's time Anne was in to do her sewing,” said Marilla, glancing at the clock and then out into the yellow August afternoon where everything drowsed in the heat. “She stayed playing with Diana more than half an hour more ‘n I gave her leave to; and now she’s perched out there on the woodpile talking to Matthew, nineteen to the dozen, when she knows perfectly well she ought to be at her work. And of course he’s listening to her like a perfect ninny. I never saw such an infatuated man. The more she talks and the odder the things she says, the more he’s delighted evidently. Anne Shirley, you come right in here this minute, do you hear me!”
@@ -1279,7 +1279,7 @@ Anne had been smitten with delighted admiration when she first saw that brooch.
 
 
 
-# Chapter 14<br/>Anne’s Confession
+# Chapter 14: <br/>Anne’s Confession
 
 
 On the Monday evening before the picnic Marilla came down from her room with a troubled face.
@@ -1427,7 +1427,7 @@ That evening Marilla told the whole story to Matthew over her stocking basket.
 
 
 
-# Chapter 15<br/>A Tempest in the School Teapot
+# Chapter 15: <br/>A Tempest in the School Teapot
 
 
 What a splendid day!” said Anne, drawing a long breath. “Isn’t it good just to be alive on a day like this? I pity the people who aren’t born yet for missing it. They may have good days, of course, but they can never have this one. And it’s splendider still to have such a lovely way to go to school by, isn’t it?”
@@ -1630,7 +1630,7 @@ Marilla turned quickly away to hide her twitching face; but it was no use; she c
 
 
 
-# Chapter 16<br/>Diana Is Invited to Tea with Tragic Results
+# Chapter 16: <br/>Diana Is Invited to Tea with Tragic Results
 
 
 October was a beautiful month at Green Gables, when the birches in the hollow turned as golden as sunshine and the maples behind the orchard were royal crimson and the wild cherry trees along the lane put on the loveliest shades of dark red and bronzy green, while the fields sunned themselves in aftermaths.
@@ -1782,7 +1782,7 @@ But when she slipped into the east gable before going to bed and found that Anne
 
 
 
-# Chapter 17<br/>A New Interest in Life
+# Chapter 17: <br/>A New Interest in Life
 
 
 The next afternoon Anne, bending over her patchwork at the kitchen window, happened to glance out and beheld Diana down by the Dryad’s Bubble beckoning mysteriously. In a trice Anne was out of the house and flying down to the hollow, astonishment and hope struggling in her expressive eyes. But the hope faded when she saw Diana’s dejected countenance.
@@ -1884,7 +1884,7 @@ Mr. Phillips might not be a very good teacher; but a pupil so inflexibly determi
 
 
 
-# Chapter 18<br/>Anne to the Rescue
+# Chapter 18: <br/>Anne to the Rescue
 
 
 All things great are wound up with all things little. At first glance it might not seem that the decision of a certain Canadian Premier to include Prince Edward Island in a political tour could have much or anything to do with the fortunes of little Anne Shirley at Green Gables. But it had.
@@ -2001,7 +2001,7 @@ Anne came dancing home in the purple winter twilight across the snowy places. Af
 
 
 
-# Chapter 19<br/>A Concert a Catastrophe and a Confession
+# Chapter 19: <br/>A Concert a Catastrophe and a Confession
 
 
 Marilla, can I go over to see Diana just for a minute?” asked Anne, running breathlessly down from the east gable one February evening.
@@ -2200,7 +2200,7 @@ When Miss Barry went away she said:
 
 
 
-# Chapter 20<br/>A Good Imagination Gone Wrong
+# Chapter 20: <br/>A Good Imagination Gone Wrong
 
 
 Spring had come once more to Green Gables—the beautiful capricious, reluctant Canadian spring, lingering along through April and May in a succession of sweet, fresh, chilly days, with pink sunsets and miracles of resurrection and growth. The maples in Lover’s Lane were red budded and little curly ferns pushed up around the Dryad’s Bubble. Away up in the barrens, behind Mr. Silas Sloane’s place, the Mayflowers blossomed out, pink and white stars of sweetness under their brown leaves. All the school girls and boys had one golden afternoon gathering them, coming home in the clear, echoing twilight with arms and baskets full of flowery spoil.
@@ -2280,7 +2280,7 @@ Anne marched. That is, she stumbled over the bridge and went shuddering up the h
 
 
 
-# Chapter 21<br/>A New Departure in Flavorings
+# Chapter 21: <br/>A New Departure in Flavorings
 
 
 Dear me, there is nothing but meetings and partings in this world, as Mrs. Lynde says,” remarked Anne plaintively, putting her slate and books down on the kitchen table on the last day of June and wiping her red eyes with a very damp handkerchief. “Wasn’t it fortunate, Marilla, that I took an extra handkerchief to school today? I had a presentiment that it would be needed.”
@@ -2407,7 +2407,7 @@ Anne permitted herself to be led down and comforted, reflecting that it was real
 
 
 
-# Chapter 22<br/>Anne is Invited Out to Tea
+# Chapter 22: <br/>Anne is Invited Out to Tea
 
 
 And what are your eyes popping out of your head about. Now?” asked Marilla, when Anne had just come in from a run to the post office. “Have you discovered another kindred spirit?” Excitement hung around Anne like a garment, shone in her eyes, kindled in every feature. She had come dancing up the lane, like a wind-blown sprite, through the mellow sunshine and lazy shadows of the August evening.
@@ -2435,7 +2435,7 @@ A cool wind was blowing down over the long harvest fields from the rims of firry
 
 
 
-# Chapter 23<br/>Anne Comes to Grief in an Affair of Honor
+# Chapter 23: <br/>Anne Comes to Grief in an Affair of Honor
 
 
 Anne had to live through more than two weeks, as it happened. Almost a month having elapsed since the liniment cake episode, it was high time for her to get into fresh trouble of some sort, little mistakes, such as absentmindedly emptying a pan of skim milk into a basket of yarn balls in the pantry instead of into the pigs’ bucket, and walking clean over the edge of the log bridge into the brook while wrapped in imaginative reverie, not really being worth counting.
@@ -2527,7 +2527,7 @@ Anne had good reason to bless her imagination many a time and oft during the ted
 
 
 
-# Chapter 24<br/>Miss Stacy and Her Pupils Get Up a Concert
+# Chapter 24: <br/>Miss Stacy and Her Pupils Get Up a Concert
 
 
 It was October again when Anne was ready to go back to school—a glorious October, all red and gold, with mellow mornings when the valleys were filled with delicate mists as if the spirit of autumn had poured them in for the sun to drain—amethyst, pearl, silver, rose, and smoke-blue. The dews were so heavy that the fields glistened like cloth of silver and there were such heaps of rustling leaves in the hollows of many-stemmed woods to run crisply through. The Birch Path was a canopy of yellow and the ferns were sear and brown all along it. There was a tang in the very air that inspired the hearts of small maidens tripping, unlike snails, swiftly and willingly to school; and it *was* jolly to be back again at the little brown desk beside Diana, with Ruby Gillis nodding across the aisle and Carrie Sloane sending up notes and Julia Bell passing a “chew” of gum down from the back seat. Anne drew a long breath of happiness as she sharpened her pencil and arranged her picture cards in her desk. Life was certainly very interesting.
@@ -2569,7 +2569,7 @@ Anne sighed and betook herself to the back yard, over which a young new moon was
 
 
 
-# Chapter 25<br/>Matthew Insists on Puffed Sleeves
+# Chapter 25: <br/>Matthew Insists on Puffed Sleeves
 
 
 Matthew was having a bad ten minutes of it. He had come into the kitchen, in the twilight of a cold, gray December evening, and had sat down in the woodbox corner to take off his heavy boots, unconscious of the fact that Anne and a bevy of her schoolmates were having a practice of “The Fairy Queen” in the sitting room. Presently they came trooping through the hall and out into the kitchen, laughing and chattering gaily. They did not see Matthew, who shrank bashfully back into the shadows beyond the woodbox with a boot in one hand and a bootjack in the other, and he watched them shyly for the aforesaid ten minutes as they put on caps and jackets and talked about the dialogue and the concert. Anne stood among them, bright eyed and animated as they; but Matthew suddenly became conscious that there was something about her different from her mates. And what worried Matthew was that the difference impressed him as being something that should not exist. Anne had a brighter face, and bigger, starrier eyes, and more delicate features than the other; even shy, unobservant Matthew had learned to take note of these things; but the difference that disturbed him did not consist in any of these respects. Then in what did it consist?
@@ -2701,7 +2701,7 @@ That night Marilla and Matthew, who had been out to a concert for the first time
 
 
 
-# Chapter 26<br/>The Story Club Is Formed
+# Chapter 26: <br/>The Story Club Is Formed
 
 
 Junior Avonlea found it hard to settle down to humdrum existence again. To Anne in particular things seemed fearfully flat, stale, and unprofitable after the goblet of excitement she had been sipping for weeks. Could she go back to the former quiet pleasures of those faraway days before the concert? At first, as she told Diana, she did not really think she could.
@@ -2762,7 +2762,7 @@ This was how the story club came into existence. It was limited to Diana and Ann
 
 
 
-# Chapter 27<br/>Vanity and Vexation of Spirit
+# Chapter 27: <br/>Vanity and Vexation of Spirit
 
 
 Marilla, walking home one late April evening from an Aid meeting, realized that the winter was over and gone with the thrill of delight that spring never fails to bring to the oldest and saddest as well as to the youngest and merriest. Marilla was not given to subjective analysis of her thoughts and feelings. She probably imagined that she was thinking about the Aids and their missionary box and the new carpet for the vestry room, but under these reflections was a harmonious consciousness of red fields smoking into pale-purply mists in the declining sun, of long, sharp-pointed fir shadows falling over the meadow beyond the brook, of still, crimson-budded maples around a mirrorlike wood pool, of a wakening in the world and a stir of hidden pulses under the gray sod. The spring was abroad in the land and Marilla’s sober, middle-aged step was lighter and swifter because of its deep, primal gladness.
@@ -2856,7 +2856,7 @@ Which was Marilla’s way of saying that she liked to hear it.
 
 
 
-# Chapter 28<br/>An Unfortunate Lily Maid
+# Chapter 28: <br/>An Unfortunate Lily Maid
 
 
 Of course you must be Elaine, Anne,” said Diana. “I could never have the courage to float down there.”
@@ -2960,7 +2960,7 @@ But Matthew, who had been sitting mutely in his corner, laid a hand on Anne’s 
 
 
 
-# Chapter 29<br/>An Epoch in Anne’s Life
+# Chapter 29: <br/>An Epoch in Anne’s Life
 
 
 Anne was bringing the cows home from the back pasture by way of Lover’s Lane. It was a September evening and all the gaps and clearings in the woods were brimmed up with ruby sunset light. Here and there the lane was splashed with it, but for the most part it was already quite shadowy beneath the maples, and the spaces under the firs were filled with a clear violet dusk like airy wine. The winds were out in their tops, and there is no sweeter music on earth than that which the wind makes in the fir trees at evening.
@@ -3052,7 +3052,7 @@ After supper Anne sat before the fire between Matthew and Marilla, and gave them
 
 
 
-# Chapter 30<br/>The Queens Class Is Organized
+# Chapter 30: <br/>The Queens Class Is Organized
 
 
 Marilla laid her knitting on her lap and leaned back in her chair. Her eyes were tired, and she thought vaguely that she must see about having her glasses changed the next time she went to town, for her eyes had grown tired very often of late.
@@ -3146,7 +3146,7 @@ Mrs. Rachel and Marilla sat comfortably in the parlor while Anne got the tea and
 
 
 
-# Chapter 31<br/>Where the Brook and River Meet
+# Chapter 31: <br/>Where the Brook and River Meet
 
 
 Anne had her “good” summer and enjoyed it wholeheartedly. She and Diana fairly lived outdoors, reveling in all the delights that Lover’s Lane and the Dryad’s Bubble and Willowmere and Victoria Island afforded. Marilla offered no objections to Anne’s gypsyings. The Spencervale doctor who had come the night Minnie May had the croup met Anne at the house of a patient one afternoon early in vacation, looked her over sharply, screwed up his mouth, shook his head, and sent a message to Marilla Cuthbert by another person. It was:
@@ -3222,7 +3222,7 @@ Anne sighed and, dragging her eyes from the witcheries of the spring world, the 
 
 
 
-# Chapter 32<br/>The Pass List Is Out
+# Chapter 32: <br/>The Pass List Is Out
 
 
 With the end of June came the close of the term and the close of Miss Stacy’s rule in Avonlea school. Anne and Diana walked home that evening feeling very sober indeed. Red eyes and damp handkerchiefs bore convincing testimony to the fact that Miss Stacy’s farewell words must have been quite as touching as Mr. Phillips’s had been under similar circumstances three years before. Diana looked back at the schoolhouse from the foot of the spruce hill and sighed deeply.
@@ -3331,7 +3331,7 @@ That night Anne, who had wound up the delightful evening with a serious little t
 
 
 
-# Chapter 33<br/>The Hotel Concert
+# Chapter 33: <br/>The Hotel Concert
 
 
 Put on your white organdy, by all means, Anne,” advised Diana decidedly.
@@ -3431,7 +3431,7 @@ Oh, it was good to be out again in the purity and silence of the night! How grea
 
 
 
-# Chapter 34<br/>A Queen’s Girl
+# Chapter 34: <br/>A Queen’s Girl
 
 
 The next three weeks were busy ones at Green Gables, for Anne was getting ready to go to Queen’s, and there was much sewing to be done, and many things to be talked over and arranged. Anne’s outfit was ample and pretty, for Matthew saw to that, and Marilla for once made no objections whatever to anything he purchased or suggested. More—one evening she went up to the east gable with her arms full of a delicate pale green material.
@@ -3493,7 +3493,7 @@ A wealthy manufacturer of New Brunswick had died and left part of his fortune to
 
 
 
-# Chapter 35<br/>The Winter at Queen’s
+# Chapter 35: <br/>The Winter at Queen’s
 
 
 Anne's homesickness wore off, greatly helped in the wearing by her weekend visits home. As long as the open weather lasted the Avonlea students went out to Carmody on the new branch railway every Friday night. Diana and several other Avonlea young folks were generally on hand to meet them and they all walked over to Avonlea in a merry party. Anne thought those Friday evening gypsyings over the autumnal hills in the crisp golden air, with the homelights of Avonlea twinkling beyond, were the best and dearest hours in the whole week.
@@ -3536,7 +3536,7 @@ Jane and Josie both answered at once and the chatter drifted into a side eddy of
 
 
 
-# Chapter 36<br/>The Glory and the Dream
+# Chapter 36: <br/>The Glory and the Dream
 
 
 On the morning when the final results of all the examinations were to be posted on the bulletin board at Queen’s, Anne and Jane walked down the street together. Jane was smiling and happy; examinations were over and she was comfortably sure she had made a pass at least; further considerations troubled Jane not at all; she had no soaring ambitions and consequently was not affected with the unrest attendant thereon. For we pay a price for everything we get or take in this world; and although ambitions are well worth having, they are not to be cheaply won, but exact their dues of work and self-denial, anxiety and discouragement. Anne was pale and quiet; in ten more minutes she would know who had won the medal and who the Avery. Beyond those ten minutes there did not seem, just then, to be anything worth being called Time.
@@ -3628,7 +3628,7 @@ He smiled his shy smile at her as he went into the yard. Anne took the memory of
 
 
 
-# Chapter 37<br/>The Reaper Whose Name Is Death
+# Chapter 37: <br/>The Reaper Whose Name Is Death
 
 
 Matthew—Matthew—what is the matter? Matthew, are you sick?”
@@ -3723,7 +3723,7 @@ Anne looked up with swift interest.
 
 
 
-# Chapter 38<br/>The Bend in the road
+# Chapter 38: <br/>The Bend in the road
 
 
 Marilla went to town the next day and returned in the evening. Anne had gone over to Orchard Slope with Diana and came back to find Marilla in the kitchen, sitting by the table with her head leaning on her hand. Something in her dejected attitude struck a chill to Anne’s heart. She had never seen Marilla sit limply inert like that.
