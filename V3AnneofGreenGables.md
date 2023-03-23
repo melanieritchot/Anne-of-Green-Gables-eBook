@@ -1902,12 +1902,12 @@ so the marked absence of any tribute or recognition from Diana Barry who was sit
 “Diana might just have smiled at me once, I think,” she mourned to Marilla that night. But the next morning a note most fearfully and wonderfully twisted and folded, and a small parcel were passed across to Anne.
 
 ::: {.note}
-| Dear Anne,
-|
+Dear Anne,
+
 Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember.
-|
+
 Your true friend,
-| Diana Barry.
+Diana Barry.
 :::
 
 Anne read the note, kissed the bookmark, and dispatched a prompt reply back to the other side of the school.
