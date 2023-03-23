@@ -1866,8 +1866,7 @@ The following Monday Anne surprised Marilla by coming down from her room with he
 Anne was welcomed back to school with open arms. Her imagination had been sorely missed in games, her voice in the singing and her dramatic ability in the perusal aloud of books at dinner hour. Ruby Gillis smuggled three blue plums over to her during testament reading; Ella May MacPherson gave her an enormous yellow pansy cut from the covers of a floral catalogue—a species of desk decoration much prized in Avonlea school. Sophia Sloane offered to teach her a perfectly elegant new pattern of knit lace, so nice for trimming aprons. Katie Boulter gave her a perfume bottle to keep slate water in, and Julia Bell copied carefully on a piece of pale pink paper scalloped on the edges the following effusion:
 
 ::: {.note}
-|“TO ANNE</br>
-|“When twilight drops her curtain down</br>And pins it with a star</br>Remember that you have a friend</br>Though she may wander far.”
+“TO ANNE</br> “When twilight drops her curtain down</br>And pins it with a star</br>Remember that you have a friend</br>Though she may wander far.”
 :::
 
 “It’s so nice to be appreciated,” sighed Anne rapturously to Marilla that night.
@@ -1876,7 +1875,7 @@ The girls were not the only scholars who “appreciated” her. When Anne went t
 
 But as,
 
-:::{poetry}
+:::{.poetry}
 The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,
 :::
 
