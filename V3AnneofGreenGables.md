@@ -3303,7 +3303,7 @@ Two big tears rolled down by Diana’s nose.
 Anne went to town the following Monday and on Wednesday Diana haunted the post office, as agreed, and got her letter.
 
 ::: {.note}
-Dearest Diana [wrote Anne],
+Dearest Diana,
 
 Here it is Tuesday night and I’m writing this in the library at Beechwood. Last night I was horribly lonesome all alone in my room and wished so much you were with me. I couldn’t ‘cram’ because I’d promised Miss Stacy not to, but it was as hard to keep from opening my history as it used to be to keep from reading a story before my lessons were learned.
 
