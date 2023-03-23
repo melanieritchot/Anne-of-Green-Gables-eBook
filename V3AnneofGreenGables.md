@@ -125,7 +125,9 @@ So said Mrs. Rachel to the wild rose bushes out of the fulness of her heart; but
 
 Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River. It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom. The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while
 
-*“The little birds sang as if it were</br>The one day of summer in all the year.”*
+:::{poetry]
+“The little birds sang as if it were</br>The one day of summer in all the year.”
+:::
 
 Matthew enjoyed the drive after his own fashion, except during the moments when he met women and had to nod to them—for in Prince Edward island you are supposed to nod to all and sundry you meet on the road whether you know them or not.
 
@@ -1872,14 +1874,16 @@ The girls were not the only scholars who “appreciated” her. When Anne went t
 
 But as,
 
-*The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,*
+:::{poetry]
+The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,
+:::
 
 so the marked absence of any tribute or recognition from Diana Barry who was sitting with Gertie Pye embittered Anne’s little triumph.
 
 “Diana might just have smiled at me once, I think,” she mourned to Marilla that night. But the next morning a note most fearfully and wonderfully twisted and folded, and a small parcel were passed across to Anne. “Dear Anne, ran the former, 
 
 ::: {.note}
-“Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember</br>Your true friend,</br>Diana Barry.
+Mother says I’m not to play with you or talk to you even in school. It isn’t myfault and don’t be cross at me, because I love you as much as ever. I miss you awfully to tell all my secrets to and I don’t like Gertie Pye one bit. I made you one of the new bookmarkers out of red tissue paper. They are awfully fashionable now and only three girls in school know how to make them. When you look at it remember</br>Your true friend,</br>Diana Barry.
 :::
 
 Anne read the note, kissed the bookmark, and dispatched a prompt reply back to the other side of the school.
@@ -2002,7 +2006,9 @@ Anne came dancing home in the purple winter twilight across the snowy places. Af
 
 “I felt that I was heaping coals of fire on Mrs. Barry’s head. And Diana and I had a lovely afternoon. Diana showed me a new fancy crochet stitch her aunt over at Carmody taught her. Not a soul in Avonlea knows it but us, and we pledged a solemn vow never to reveal it to anyone else. Diana gave me a beautiful card with a wreath of roses on it and a verse of poetry:”
 
-*“If you love me as I love you</br>Nothing but death can part us two.”*
+:::{poetry}
+“If you love me as I love you</br>Nothing but death can part us two.”
+:::
 
 “And that is true, Marilla. We’re going to ask Mr. Phillips to let us sit together in school again, and Gertie Pye can go with Minnie Andrews. We had an elegant tea. Mrs. Barry had the very best china set out, Marilla, just as if I was real company. I can’t tell you what a thrill it gave me. Nobody ever used their very best china on my account before. And we had fruit cake and pound cake and doughnuts and two kinds of preserves, Marilla. And Mrs. Barry asked me if I took tea and said ‘Pa, why don’t you pass the biscuits to Anne?’ It must be lovely to be grown up, Marilla, when just being treated as if you were is so nice.”
 
@@ -2978,7 +2984,9 @@ Anne was bringing the cows home from the back pasture by way of Lover’s Lane. 
 
 The cows swung placidly down the lane, and Anne followed them dreamily, repeating aloud the battle canto from *Marmion*—which had also been part of their English course the preceding winter and which Miss Stacy had made them learn off by heart—and exulting in its rushing lines and the clash of spears in its imagery. When she came to the lines
 
-*The stubborn spearsmen still made good</br>Their dark impenetrable wood,*
+:::{poetry}
+The stubborn spearsmen still made good</br>Their dark impenetrable wood,
+:::
 
 she stopped in ecstasy to shut her eyes that she might the better fancy herself one of that heroic ring. When she opened them again it was to behold Diana coming through the gate that led into the Barry field and looking so important that Anne instantly divined there was news to be told. But betray too eager curiosity she would not.
 
@@ -3183,7 +3191,9 @@ Miss Stacy came back to Avonlea school and found all her pupils eager for work o
 But it was a jolly, busy, happy swift-flying winter. Schoolwork was as interesting, class rivalry as absorbing, as of yore. New worlds of thought, feeling, and ambition, fresh, fascinating fields of unexplored knowledge seemed to be opening out before Anne’s eager eyes.
 
 
-*“Hills peeped o’er hill and Alps on Alps arose.”*
+:::{poetry}
+“Hills peeped o’er hill and Alps on Alps arose.”*
+:::
 
 
 Much of all this was due to Miss Stacy’s tactful, careful, broadminded guidance. She led her class to think and explore and discover for themselves and encouraged straying from the old beaten paths to a degree that quite shocked Mrs. Lynde and the school trustees, who viewed all innovations on established methods rather dubiously.
