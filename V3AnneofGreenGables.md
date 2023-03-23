@@ -137,7 +137,7 @@ Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to 
 
 :::{.poetry}
 | The little birds sang as if it were
-| The one day of summer in all the year.”
+| The one day of summer in all the year.
 :::
 
 Matthew enjoyed the drive after his own fashion, except during the moments when he met women and had to nod to them—for in Prince Edward island you are supposed to nod to all and sundry you meet on the road whether you know them or not.
@@ -1165,7 +1165,8 @@ Anne sat down on the rocker with a long sigh, kissed one of Bonny’s leaves, an
 
 
 :::{.poetry}
-‘Quick as the slaughtered squadrons fell,</br>In Midian’s evil day.’
+| Quick as the slaughtered squadrons fell,
+| In Midian’s evil day.
 :::
 
 “I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it sounds *so* tragical. I can hardly wait until next Sunday to recite it. I’ll practice it all the week. After Sunday school I asked Miss Rogerson—because Mrs. Lynde was too far away—to show me your pew. I sat just as still as I could and the text was Revelations, third chapter, second and third verses. It was a very long text. If I was a minister I’d pick the short, snappy ones. The sermon was awfully long, too. I suppose the minister had to match it to the text. I didn’t think he was a bit interesting. The trouble with him seems to be that he hasn’t enough imagination. I didn’t listen to him very much. I just let my thoughts run and I thought of the most surprising things.”
@@ -1887,7 +1888,8 @@ The girls were not the only scholars who “appreciated” her. When Anne went t
 But as,
 
 :::{.poetry}
-The Cæsar’s pageant shorn of Brutus’ bust<br/>Did but of Rome’s best son remind her more,
+| The Cæsar’s pageant shorn of Brutus’ bust
+| Did but of Rome’s best son remind her more,
 :::
 
 so the marked absence of any tribute or recognition from Diana Barry who was sitting with Gertie Pye embittered Anne’s little triumph.
@@ -2019,7 +2021,8 @@ Anne came dancing home in the purple winter twilight across the snowy places. Af
 “I felt that I was heaping coals of fire on Mrs. Barry’s head. And Diana and I had a lovely afternoon. Diana showed me a new fancy crochet stitch her aunt over at Carmody taught her. Not a soul in Avonlea knows it but us, and we pledged a solemn vow never to reveal it to anyone else. Diana gave me a beautiful card with a wreath of roses on it and a verse of poetry:”
 
 :::{.poetry}
-“If you love me as I love you</br>Nothing but death can part us two.”
+| If you love me as I love you
+| Nothing but death can part us two.
 :::
 
 “And that is true, Marilla. We’re going to ask Mr. Phillips to let us sit together in school again, and Gertie Pye can go with Minnie Andrews. We had an elegant tea. Mrs. Barry had the very best china set out, Marilla, just as if I was real company. I can’t tell you what a thrill it gave me. Nobody ever used their very best china on my account before. And we had fruit cake and pound cake and doughnuts and two kinds of preserves, Marilla. And Mrs. Barry asked me if I took tea and said ‘Pa, why don’t you pass the biscuits to Anne?’ It must be lovely to be grown up, Marilla, when just being treated as if you were is so nice.”
@@ -2997,7 +3000,8 @@ Anne was bringing the cows home from the back pasture by way of Lover’s Lane. 
 The cows swung placidly down the lane, and Anne followed them dreamily, repeating aloud the battle canto from *Marmion*—which had also been part of their English course the preceding winter and which Miss Stacy had made them learn off by heart—and exulting in its rushing lines and the clash of spears in its imagery. When she came to the lines
 
 :::{.poetry}
-The stubborn spearsmen still made good</br>Their dark impenetrable wood,
+| The stubborn spearsmen still made good
+| Their dark impenetrable wood,
 :::
 
 she stopped in ecstasy to shut her eyes that she might the better fancy herself one of that heroic ring. When she opened them again it was to behold Diana coming through the gate that led into the Barry field and looking so important that Anne instantly divined there was news to be told. But betray too eager curiosity she would not.
@@ -3204,7 +3208,7 @@ But it was a jolly, busy, happy swift-flying winter. Schoolwork was as interesti
 
 
 :::{.poetry}
-“Hills peeped o’er hill and Alps on Alps arose.”*
+| Hills peeped o’er hill and Alps on Alps arose.
 :::
 
 
