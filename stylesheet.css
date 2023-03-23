@@ -1,11 +1,30 @@
+body {
+    background: white;
+    font-family: Georgia;
+    font-size: 12pt;
+}
+
 h1 {
-	color: green;
 	font-size: 16pt;
-	font-family: "Minion Pro";
+	font-family: Georgia;
 	line-height: 1em;
+	font-style: bold;
+
+}
+
+.note {
+	font-size: 12pt;
+	font-family: Helvetica;
+	align-content: center;
+	line-height: 1em;
+	background-color: lightgreen;
+
+}
+
+.poetry {
+	font-size: 12pt;
 	font-style: italic;
-
-
+	line-height: 1em;
 }
 
 
